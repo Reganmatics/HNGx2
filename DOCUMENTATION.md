@@ -1,6 +1,3 @@
-# HNGx2
-stage 2 project
-
 # FastAPI CRUD API Project Documentation
 
 This document provides comprehensive step-by-step instructions for setting up and deploying a FastAPI-based CRUD (Create, Read, Update, Delete) API using SQLite as the database backend. This documentation will guide you through every aspect of the project, from environment setup to deployment.
